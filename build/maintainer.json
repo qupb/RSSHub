@@ -569,6 +569,9 @@
     "/bjp/apod": [
         "HenryQW"
     ],
+    "/bjsk/:path?": [
+        "TonyRL"
+    ],
     "/bjwxdxh/:type?": [
         "Misaka13514"
     ],
@@ -665,6 +668,9 @@
     ],
     "/cankaoxiaoxi/news/:category": [
         "yuxinliu-alex"
+    ],
+    "/cast/:column?": [
+        "TonyRL"
     ],
     "/cbirc/:category?": [
         "JkCheung"
@@ -4552,9 +4558,6 @@
     ],
     "/wechat/uread/:userid": [
         "kt286"
-    ],
-    "/wechat/wemp/:id": [
-        "HenryQW"
     ],
     "/wechat/wxnmh/:id": [
         "laampui"
